@@ -1,6 +1,7 @@
 # **Adjusting the layout**
 
 To adjust the wireshark layout go to:
+
 Edit => preferences => Layout
 
 Several layout options will be presented in the window, choose one and the
