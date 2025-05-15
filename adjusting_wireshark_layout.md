@@ -11,7 +11,8 @@ data you want to be displayed.
 fonts and colors used by wireshark. **NOTE** that all these changes will be 
 applied to your profile. You can always get back to the default colors by 
 selecting the default profile. If you have saved changes to the default 
-profile by mistake simply, delete the default profile.
+profile by mistake simply, delete the default profile.Close wireshark and it 
+will create a new factory reset default profile automatically.
+
 	right click current profile => manage profiles
-Close wireshark and it will create a new factory reset default profile 
-automatically.
+
